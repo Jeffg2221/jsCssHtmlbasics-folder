@@ -1,0 +1,33 @@
+nav{
+    background-color: blue;
+    height: 60px;
+    color: white;
+    position: fixed;
+    width: 100vw; 
+    top: 0px;
+    left: 0px;
+}
+
+h4{
+    margin: 0px;
+    line-height: 60px;
+    padding-left: 10px;
+}
+body{
+    margin: 0;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 20px;
+}
+
+.boxes{
+    margin-top: 80px;
+}
+
+.rel-position{
+    position: relative;
+}
