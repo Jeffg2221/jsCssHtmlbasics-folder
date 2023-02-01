@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    color: blue;
+  }
+
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: dodgerblue;
+    border: 3px solid black;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: tomato;
+    border: 3px solid black;
+}
